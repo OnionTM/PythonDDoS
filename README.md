@@ -1,2 +1,2 @@
 # PythonDDoS
-Python DDoS Scripts Package
+Python DDoS / DoS Scripts Package
